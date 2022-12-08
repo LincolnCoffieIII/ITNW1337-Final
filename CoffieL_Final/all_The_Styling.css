@@ -1,0 +1,20 @@
+*{
+  box-sizing: border-box;
+  border-radius: 11px
+}
+#header_logo {
+  max-width: fit-content 150px;
+  max-height: 150px;
+
+}
+#navigation_bar {
+  list-style-type: none;
+  position: relative;
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+
+}
+#nav_buttons {
+ padding-top: 3%; 
+}
